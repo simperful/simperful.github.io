@@ -1,0 +1,5 @@
+I"g<p>To use this layout,
+include the <code class="highlighter-rouge">jekyll-paginate</code> plugin in your <code class="highlighter-rouge">Gemfile</code> and in your <code class="highlighter-rouge">_config.yml</code> under <code class="highlighter-rouge">plugins</code>.
+For more, see <a href="https://jekyllrb.com/docs/pagination/">Jekyll Pagination</a>.</p>
+
+:ET
