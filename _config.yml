@@ -30,9 +30,9 @@ description:           >
   my personal blog, as a notebook and website
 
 # A shorter description for the sidebar.
-tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+#tagline:               >
+# A Jekyll theme with JavaScript powers.
+#  Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
 keywords:              []
